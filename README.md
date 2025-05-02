@@ -110,8 +110,7 @@ Interactive ordering system using **HTML**, **CSS**, and **JavaScript** with QR-
 
 ## 📫 Contact Me  
 
-📧 Email: [anukontisaichandu@gmail.com](mailto:anukontisaichandu@gmail.com)  
-📱 Phone: +91 86886 20129  
+📧 Email: [anukontisaichandu@gmail.com](mailto:anukontisaichandu@gmail.com)    
 🔗 LinkedIn: [linkedin.com/in/anukontisaichandu](https://linkedin.com/in/anukontisaichandu)  
 
 ---
