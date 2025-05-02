@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **SaiChandu Anukonti**  
-💻 Final-Year CSE Student | ☁️ AWS Cloud Enthusiast | 📊 Data Analyst | 🌐 Web Developer  
+💻 Final-Year CSE Student | ☁️ Cloud Enthusiast | 📊 Data Analyst | 🌐 Web Developer  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anukontisaichandu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anukontisaichandu@gmail.com)
@@ -17,7 +17,7 @@
 
 - **B.Tech in Computer Science and Engineering**  
   📍 *Vaagdevi College of Engineering*, Warangal (2021 – 2025)  
-  🎯 CGPA: 8.62  
+  🎯 CGPA: 8.55  
 
 - **Intermediate (MPC)**  
   📍 *SR Edu Center* (2019 – 2021)  
@@ -59,7 +59,7 @@ Interactive ordering system using **HTML**, **CSS**, and **JavaScript** with QR-
 
 ### 💻 Programming  
 - 🐍 Python
-- 💻 `C Programming`  
+- 💻 C Programming
 - ☕ Java  
 
 
@@ -81,11 +81,11 @@ Interactive ordering system using **HTML**, **CSS**, and **JavaScript** with QR-
 - 🗃️ MySQL
 
 ### ⚙️ Tools & Frameworks  
-- 📈 `Power BI`  
-- 🍃 `Spring Boot`  
-- 🔀 `GitHub`  
-- 🖥️ `VS Code`  
-- 🧪 `Jupyter Notebook`
+- 📈 Power BI
+- 🍃 Spring Boot  
+- 🔀 GitHub
+- 🖥️ VS Code  
+- 🧪 Jupyter Notebook
   
 ### ⚙️ Development Tools
 - 🐧 Linux
