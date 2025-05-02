@@ -93,7 +93,7 @@ Interactive ordering system using **HTML**, **CSS**, and **JavaScript** with QR-
 ---
 
 ## 📜 Certifications  
-- ✅ **AWS Cloud Practitioner**  
+- ✅ **AWS Cloud Practitioner Certified**  
 - ✅ **AWS Cloud Foundation**  
 - ✅ **CISCO: Python Essentials**  
 - ✅ **ORACLE: Java Fundamentals**  
