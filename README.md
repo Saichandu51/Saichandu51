@@ -1,6 +1,7 @@
 # 👋 Hi, I'm **SaiChandu Anukonti**  
 ☁️ Cloud & DevOps Enthusiast | 📊 Data Analyst | 🌐 Web Developer  
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anukontisaichandu.s3.ap-south-1.amazonaws.com/Portfolio/index.html#home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anukontisaichandu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anukontisaichandu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saichandu51)  
@@ -50,7 +51,7 @@
 
 ## 🔬 Projects  
 
-### ☁️ **College Event Hub** *(AWS + Flask)* – [Live](https://anukontisaichandu.s3.ap-south-1.amazonaws.com/Portfolio/index.html#home)  
+### ☁️ **College Event Hub** *(AWS + Flask)*   
 Event management platform with secure login (**AWS Cognito**), email verification (**SES**), MySQL on **RDS**, and EC2 deployment.
 
 ### 🤖 **Cloud-Based Multilingual Chatbot with Dynamic Translation** – [Live Demo](https://language-translation-chandu.s3.us-east-1.amazonaws.com/index.html)  
