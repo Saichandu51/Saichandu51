@@ -90,6 +90,9 @@ Cloud-focused Computer Science student (B.Tech CSE, 2025) with hands-on AWS and 
 
 ## 🔬 Selected Projects
 
+- ✅ Deployment of Scalable To-Do App on AWS  
+  Containerized 3-tier app (frontend, backend, MySQL), pushed images to ECR and deployed with ECS Fargate. Configured VPC, IAM roles, and CloudWatch logging for observability.
+
 - ☁️ College Event Hub — AWS + Flask  
   Event management platform using AWS Cognito for authentication, SES for email verification, RDS (MySQL) backend, deployed on EC2; implements secure login and event CRUD flows.
 
@@ -102,8 +105,6 @@ Cloud-focused Computer Science student (B.Tech CSE, 2025) with hands-on AWS and 
 - 📊 Retail Sales Dashboard — Power BI  
   Interactive dashboard with advanced DAX measures (GitHub: https://github.com/Saichandu51/RetailerDashBoard). Analyzes sales, profit and region-wise performance for 10k+ records.
 
-- ✅ Deployment of Scalable To-Do App on AWS  
-  Containerized 3-tier app (frontend, backend, MySQL), pushed images to ECR and deployed with ECS Fargate. Configured VPC, IAM roles, and CloudWatch logging for observability.
 
 ---
 
@@ -134,7 +135,7 @@ Cloud-focused Computer Science student (B.Tech CSE, 2025) with hands-on AWS and 
 ## 🏆 Achievements
 
 - 🥉 3rd Place — Ideathon (College level)  
-- 🏅 Top 10 — Project Expo (final year project, top out of 60+ teams)
+- 🏅 Top 7 — Project Expo (final year project, top out of 60+ teams)
 
 ---
 
