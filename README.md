@@ -1,14 +1,29 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> Hi, I'm Anukonti SaiChandu
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Saichandu51.Saichandu51)
 
-<!-- User-provided animated gif (placed below greeting, aligned right for visual emphasis) -->
-<div align="right">
-  <img src="https://private-user-images.githubusercontent.com/13622306/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMwNTIyNzUsIm5iZiI6MTc2MzA1MTk3NSwicGF0aCI6Ii8xMzYyMjMwNi8zNzM5NjQ3NTUtNzU0ZjdmNDgtNTdiNC00YjhmLTkwNTQtYjIxZWY3ODAzNjk4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEzVDE2MzkzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFlMmQwOGU4MzZmMGM1NjdiM2U5ZTg2YmU0MDY2YTdkOTc0MGRiM2I3OWI2ZWNiY2RkODRkZTc2ZmI0N2NkMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fbxj9El0ZbD409vh4amNwniJgaxW6SaDxzMzDZjsdFc" alt="Profile animated gif" width="300px"/>
+<!-- Responsive full-screen layout with content on left and GIF on right -->
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; background: #f7f9fc; border-radius: 16px; padding: 20px; box-shadow: 0 6px 20px rgba(0,0,0,0.1);">
+
+  <!-- Left Section: Info -->
+  <div style="flex: 1; min-width: 280px; text-align: left; padding: 20px;">
+    <h2>☁️ Cloud-Focused Computer Science Student</h2>
+    <p><strong>B.Tech CSE, 2025</strong></p>
+    <p>
+      Cloud-focused Computer Science student with hands-on AWS and DevOps experience.
+      Skilled in serverless architecture, cloud deployment, automated CI/CD pipelines, and data analytics.
+      I enjoy building scalable, secure cloud applications and data visualizations that solve real-world problems.
+    </p>
+  </div>
+
+  <!-- Right Section: Animated GIF -->
+  <div style="flex: 1; min-width: 280px; text-align: center;">
+    <img src="https://private-user-images.githubusercontent.com/13622306/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9..." alt="Profile animated gif" width="350px" style="border-radius: 12px;"/>
+  </div>
+
 </div>
 
-Cloud-focused Computer Science student (B.Tech CSE, 2025) with hands-on AWS and DevOps experience. Skilled in serverless architecture, cloud deployment, automated CI/CD pipelines, and data analytics. I enjoy building scalable, secure cloud applications and data visualizations that solve real-world problems.
-
 ---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="26px" /> Let's Stay Connected
 
 <!-- Badges arranged side-by-side on a single line -->
