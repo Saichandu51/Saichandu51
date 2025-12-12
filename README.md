@@ -28,7 +28,7 @@
 
 <!-- Badges arranged side-by-side on a single line -->
 <p>
-  <a href="https://anukontisaichandu.s3.ap-south-1.amazonaws.com/Portfolio/index.html#home" target="_blank">
+ <!-- <a href="https://anukontisaichandu.s3.ap-south-1.amazonaws.com/Portfolio/index.html#home" target="_blank"> -->
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge">
   </a>&nbsp;
   <a href="https://linkedin.com/in/anukontisaichandu" target="_blank">
