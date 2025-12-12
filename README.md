@@ -112,8 +112,7 @@
   Event management platform using AWS Cognito for authentication, SES for email verification, RDS (MySQL) backend, deployed on EC2; implements secure login and event CRUD flows.
 
 - 🤖 Cloud-Based Multilingual Chatbot — Serverless (Lambda + API Gateway)  
-  Serverless chatbot with multilingual translation support. Frontend + Lambda-backed API, secure endpoints and translation integration. Live demo: https://language-translation-chandu.s3.us-east-1.amazonaws.com/index.html
-
+  Serverless chatbot with multilingual translation support. Frontend + Lambda-backed API, secure endpoints and translation integration.
 - 🌫 Air Pollution Prediction — ML + Flask  
   Random Forest model for real-time AQI prediction (~93% accuracy). Flask web interface, MySQL for ingestion and storage, automated daily ingestion pipeline.
 
