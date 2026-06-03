@@ -1,21 +1,19 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> Hi, I'm Anukonti SaiChandu
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Saichandu51.Saichandu51)
 
-<!-- Responsive full-screen layout with content on left and GIF on right -->
-<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; background: #f7f9fc; border-radius: 16px; padding: 20px; box-shadow: 0 6px 20px rgba(0,0,0,0.1);">
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; background: #f7f9fc; border-radius: 16px; padding: 20px; box-shadow: 0 6px 20px rgba(0,0,0,0.1); color: #333;">
 
-  <!-- Left Section: Info -->
   <div style="flex: 1; min-width: 280px; text-align: left; padding: 20px;">
-    <h2>☁️ Cloud-Focused Computer Science Student</h2>
-    <p><strong>B.Tech CSE, 2025</strong></p>
+    <h2>☁️ Windows & Cloud Operations Engineer</h2>
+    <p><strong>Infrastructure Operations | Cloud Infrastructure | Production Support</strong></p>
     <p>
-      Cloud-focused Computer Science student with hands-on AWS and DevOps experience.
-      Skilled in serverless architecture, cloud deployment, automated CI/CD pipelines, and data analytics.
-      I enjoy building scalable, secure cloud applications and data visualizations that solve real-world problems.
+      Result-oriented Infrastructure and Cloud Operations professional with hands-on enterprise experience in NOC operations, infrastructure monitoring, incident management, and automated deployments. 
+    </p>
+    <p>
+      Skilled in handling enterprise-level INC/RITM workflows, troubleshooting Windows Server environments, cloud provisioning, and ensuring 100% SLA compliance across high-availability AWS and hybrid infrastructures.
     </p>
   </div>
 
-  <!-- Right Section: Animated GIF -->
   <div style="flex: 1; min-width: 280px; text-align: center;">
     <img src="https://private-user-images.githubusercontent.com/13622306/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9..." alt="Profile animated gif" width="350px" style="border-radius: 12px;"/>
   </div>
@@ -26,11 +24,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="26px" /> Let's Stay Connected
 
-<!-- Badges arranged side-by-side on a single line -->
 <p>
- <!-- <a href="https://anukontisaichandu.s3.ap-south-1.amazonaws.com/Portfolio/index.html#home" target="_blank"> -->
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge">
-  </a>&nbsp;
   <a href="https://linkedin.com/in/anukontisaichandu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>&nbsp;
@@ -46,112 +40,87 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="26px" alt="Laptop Emoji" /> Technical Skills
 
-<!-- Cloud & DevOps -->
+### ☁️ Cloud, DevOps & Infrastructure Operations
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-4479A1?style=flat&logo=mysql&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS-FBAE17?style=flat&logo=amazon-aws&logoColor=white)
 ![ECR](https://img.shields.io/badge/ECR-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![SES](https://img.shields.io/badge/SES-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
+![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=flat&logo=servicenow&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=microsoft&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-0A66C2)
 
-<!-- Programming -->
+### 💻 System, Development & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
-<!-- Web -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-<!-- Data & BI -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-<!-- Tools & OS -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-## 🧾 Internship Experience
+## 💼 Professional Work Experience
 
-- 🚀 Cloud Computing Intern — InternPro (Jun 2025 – Jul 2025)  
-  Led a 10-member team to design & deploy a real-time CI/CD monitoring dashboard for GitHub Actions. Automated build, test & deployment pipelines using YAML. Integrated CloudWatch for logs and performance tracking; coordinated Agile sprints to deliver milestones ahead of schedule.
+#### 🏢 Microsoft Windows Engineer — NTT DATA Ltd (Dec 2025 – Present)  
+* **Enterprise Infrastructure Monitoring:** Perform real-time environment monitoring, resolving crucial server, service, CPU, memory, and uptime alert anomalies.  
+* **ITIL Ticket Management:** Manage high-priority incident (INC) and request (RITM) workflows through ServiceNow, driving strict SLA compliance and root-cause analysis (RCA).  
+* **System Optimization & AD Admin:** Troubleshoot production-level Windows Server performance roadblocks. Administer Active Directory (AD) tasks, map user access management, and conduct log/DNS audits.  
+* **Patch Operations & Cross-Collaboration:** Coordinate end-to-end Windows patch management routines (pre-checks, installation, reboot validations). Actively collaborate with application, network, DB, and Cloud teams during incident bridge calls.  
 
-- 📊 Advanced Data Analytics Intern — Edunet Foundation (Feb 2024 – Apr 2024)  
-  Cleaned and processed 5,000+ healthcare records, built Power BI dashboards using Power Query & DAX, and optimized queries to reduce load times and improve UX.
+#### 🚀 Cloud Computing Intern (AWS) — InternPro (Jun 2025 – Jul 2025)  
+* Managed and drove a technical team to build an automated, real-time CI/CD infrastructure monitoring dashboard.  
+* Scripted continuous integration and automated deployment pipelines utilizing custom YAML structural workflows via GitHub Actions.  
+* Integrated AWS CloudWatch capabilities to map log streams, monitor application trends, and secure system visibility metrics during active Agile sprint frameworks.
 
-- 🤖 Data Science Intern — IBM SkillsBuild (Oct 2024 – Nov 2024)  
-  Trained regression models, performed preprocessing and feature engineering, and integrated ML outputs for production-like evaluation.
-
----
-
-## 🔬 Selected Projects
-
-- ✅ Deployment of Scalable To-Do App on AWS  
-  Containerized 3-tier app (frontend, backend, MySQL), pushed images to ECR and deployed with ECS Fargate. Configured VPC, IAM roles, and CloudWatch logging for observability.
-
-- ☁️ College Event Hub — AWS + Flask  
-  Event management platform using AWS Cognito for authentication, SES for email verification, RDS (MySQL) backend, deployed on EC2; implements secure login and event CRUD flows.
-
-- 🤖 Cloud-Based Multilingual Chatbot — Serverless (Lambda + API Gateway)  
-  Serverless chatbot with multilingual translation support. Frontend + Lambda-backed API, secure endpoints and translation integration.
-- 🌫 Air Pollution Prediction — ML + Flask  
-  Random Forest model for real-time AQI prediction (~93% accuracy). Flask web interface, MySQL for ingestion and storage, automated daily ingestion pipeline.
-
-- 📊 Retail Sales Dashboard — Power BI  
-  Interactive dashboard with advanced DAX measures (GitHub: https://github.com/Saichandu51/RetailerDashBoard). Analyzes sales, profit and region-wise performance for 10k+ records.
-
+#### 📊 Advanced Data Analytics Intern — EY GDS (Feb 2024 – Apr 2024)  
+* Processed and cleaned 5,000+ complex healthcare records utilizing Power Query to guarantee absolute structural integrity.  
+* Created production-ready Power BI data layers; optimized structural queries and DAX engines to scale dashboard loading speeds by 30% and boost stakeholder UX engagement by 20%.
 
 ---
 
-## 🎓 Education
+## 🔬 High-Impact Cloud Projects
 
-- B.Tech in Computer Science & Engineering — Vaagdevi College of Engineering (2021 – 2025)  
-  CGPA: 8.63
+#### ⚡ Deployment of Scalable 3-Tier Web Application on AWS  
+* **Tech Stack:** Docker, AWS ECS (Fargate), Amazon ECR, Amazon CloudWatch, VPC, MySQL.  
+* **Implementation:** Developed and containerized a multi-tier serverless enterprise setup. Hosted container environments via Amazon ECR and mapped deployment flows using optimized ECS Task Definitions.  
+* **Networking & Security:** Implemented airtight security architectures mapping isolated public/private subnets, secure NAT Gateways, granular IAM policies, and VPC routing schemes, accelerating pipeline deployment cycles by 25%.
 
-- Intermediate (MPC) — SR Junior College (2019 – 2021)  
-  Marks: 898 / 1000
+#### 🤖 Cloud-Based Multilingual Chatbot with Dynamic Translation  
+* **Tech Stack:** AWS Lambda, AWS API Gateway, Python, IAM, HTML/CSS/JS.  
+* **Implementation:** Architected a fully decoupled serverless chatbot. Connected microservices with backend scripts processing incoming validation calls through secure API Gateway routes.  
+* **Security:** Configured precise, restrictive IAM policies ensuring complete separation of privileges at the API boundary tier.
 
-- SSC — Teja International High School (2018 – 2019)  
-  CGPA: 9.7
+#### 🌫️ Air Pollution Prediction System with Real-Time Data Ingestion  
+* **Tech Stack:** Python, Machine Learning (Random Forest), Flask, MySQL.  
+* **Implementation:** Programmed an analytical predictor model achieving 93% performance efficiency. Wrapped logic engines into a high-performance Flask platform maintaining sub-second application response boundaries (<1s). Automated daily pipeline triggers feeding structured data nodes directly into an organized MySQL core.
 
 ---
 
 ## 📜 Certifications
-
-- AWS Certified Cloud Practitioner  
-- Python Essentials — Cisco  
-- CCNA: Introduction to Networks  
-- Problem Solving in C — NPTEL  
-- Basics of SQL — HackerRank  
-- Data Science — IBM SkillsBuild
+* **AWS Certified Cloud Practitioner**
+* **CCNA: Introduction to Networks**
+* **Python Essentials** — Cisco
+* **Problem Solving through Programming in C** — NPTEL
+* **SQL** — HackerRank
+* **Data Science** — IBM Skills Build
 
 ---
 
-## 🏆 Achievements
-
-- 🥉 3rd Place — Ideathon (College level)  
-- 🏅 Top 7 — Project Expo (final year project, top out of 60+ teams)
+## 🎓 Education
+* **B.Tech in Computer Science & Engineering** — Vaagdevi College of Engineering (2021 – 2025) | **CGPA: 8.63**
+* **Intermediate (MPC)** — SR Junior College (2019 – 2021) | **898 / 1000**
+* **SSC** — Teja International High School (2018 – 2019) | **CGPA: 9.7**
 
 ---
 
 ## 🤝 Let's Collaborate
-Open to collaborations in Cloud, DevOps, automation and data engineering. If you're building cloud-native systems, CI/CD pipelines, or data-driven apps — let's connect, develop and scale them together.
+I am actively looking to network and collaborate on initiatives relating to **Cloud Engineering, Infrastructure Automation, DevOps Architecture, and Performance Monitoring**. If you are building scalable cloud-native frameworks or automating enterprise system ops—let's connect and optimize together!
